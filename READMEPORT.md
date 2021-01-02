@@ -1,4 +1,8 @@
 # portifolio
+autor do projeto é João Carlos Lima e Silva
+site das aulas do projeto https://www.youtube.com/watch?v=L_JSUkn7LME
+O material didático citado acima é usado aqui com fins meramente de aprendizado.
+
 Portifolio do desenvolvedor
 
 ## Tarefas
