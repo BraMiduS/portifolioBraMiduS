@@ -16,7 +16,7 @@
 }
 
 .hamburguer{
- /* background-color: red; */
+ /* background-color: red;  */
     width: 2rem;
     height: 2rem; 
     position: fixed;
@@ -165,7 +165,7 @@ header{
 
 .banner button:hover{
     opacity: 0.8;
-    color:  #44a1fd;  
+    color: #538fd4;  
 }
 
 @keyframes moveBanner{
@@ -197,6 +197,7 @@ header{
     position: absolute;
     top: 40%;
     left: 50%;
+  /* background-color: rgb(233, 19, 19); no original não existia */
     transform: translate(-50%, -50%);
 }
 
@@ -213,7 +214,7 @@ header{
 }
 
 .menu-link:hover{
-    color: #6a3093;
+    color: rgb(139, 0, 213)  ;  /* original #6a3093 */
 }
 
 .social-media{
@@ -226,7 +227,7 @@ header{
 }
 
 .social-media i{ 
-    background-color: #6a3093;
+    background-color: rgb(139, 0, 213);     /* original #6a3093*/
     color: rgb(255, 255, 255);
     height: 2.5rem;
     width: 2.5rem;
